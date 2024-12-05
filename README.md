@@ -21,7 +21,7 @@
 
 Email: jeoungsung12@naver.com
 
-Portfolio: https://jeoungsung12.my.canva.site/ios
+Portfolio: https://pyrite-hammer-7a4.notion.site/iOS-Developer-153b43ac0bfb808a8f8ccd1570f7bce9
 
 GitHub: http://github.com/jeoungsung12
 
