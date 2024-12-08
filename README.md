@@ -25,6 +25,8 @@ Portfolio: https://pyrite-hammer-7a4.notion.site/iOS-Developer-153b43ac0bfb808a8
 
 GitHub: http://github.com/jeoungsung12
 
+Tistory(blog): https://swfitman.tistory.com/
+
 ---
 
 
