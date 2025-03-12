@@ -31,7 +31,7 @@ Tistory(blog): https://swfitman.tistory.com/
 
 
 **📱 경험으로 설계하고 구현하는 열정적인 iOS 개발자**  
-- Combine, SwiftUI를 통한 **반응형 UI** 설계 및 Alamofire로 효율적인 네트워킹을 구현합니다.  
+- RxSwift를 통한 **반응형 UI** 설계 및 Alamofire로 효율적인 네트워킹을 구현합니다.  
 - **팀워크**로 복잡한 문제를 해결하는 데 집중합니다.  
 
 ---
